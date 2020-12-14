@@ -10,5 +10,6 @@ public class Main {
         System.out.println(plik3.wypisz());
         System.out.println(plik4.mnozenie(4, 2));
 	
+	// TUtaj coś jeszcze	
     }
 }
