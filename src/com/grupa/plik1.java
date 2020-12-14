@@ -6,5 +6,6 @@ public class plik1 {
         return liczba1 + liczba2;
     } // Koniec tej linijki
 
+// Dodatkowy tekst
 
 }
